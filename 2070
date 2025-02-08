@@ -1,0 +1,35 @@
+/*/input {
+
+width:250px;
+height:34px;
+border:1px solid #8181F7 ;
+margin:6px;
+outline-color:red;
+border-radius:0.2rem;
+font-size:16px;
+color:#8181F7;
+}
+
+button {
+width:250px;
+height:34px;
+background:#8181F7;
+color:white ;
+font-weight:bolder;
+border:none;
+border-radius:0.2rem;
+}
+
+h2{
+
+color :#8181F7;
+}*/
+
+body{
+background:#8181F7;
+
+}
+
+h1, p{
+color:white;
+}
